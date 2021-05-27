@@ -3,35 +3,35 @@
   "contracts": {
     "rootChain": {
       "address": "0x2890bA17EfE978480615e330ecB65333b880928e",
-      "startBlock": 4777000
+      "startBlock": 3777000
     },
     "stateSender": {
       "address": "0xEAa852323826C71cd7920C3b4c007184234c3945",
-      "startBlock": 4777000
+      "startBlock": 3777000
     },
     "withdrawManager": {
       "address": "0x2923C8dD6Cdf6b2507ef91de74F1d5E0F11Eac53",
-      "startBlock": 4777000
+      "startBlock": 3777000
     },
     "rootChainManager": {
       "address": "0xBbD7cBFA79faee899Eaf900F13C9065bF03B1A74",
-      "startBlock": 4777000
+      "startBlock": 3777000
     },
     "stakingInfo": {
       "address": "0x29C40836C17f22d16a7fE953Fb25DA670C96d69E",
-      "startBlock": 4777000
+      "startBlock": 3777000
     },
     "stakingNft": {
       "address": "0x532c7020E0F3666f9440B8B9d899A9763BCc5dB7",
-      "startBlock": 4777000
+      "startBlock": 3777000
     },
     "eventsHub": {
       "address": "0x158d5fa3Ef8e4dDA8a5367deCF76b94E7efFCe95",
-      "startBlock": 4777000
+      "startBlock": 3777000
     },
     "registry": {
       "address": "0xeE11713Fe713b2BfF2942452517483654078154D",
-      "startBlock": 4777000
+      "startBlock": 3777000
     },
     "decoderForPoSPortalData": {
       "address": "0x8fcFA769D420AdA837206294eb054Ad514a7a8a0"
